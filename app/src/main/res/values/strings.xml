@@ -1,0 +1,137 @@
+<resources>
+    <string name="app_name">Fitnessify</string>
+    <string name="home">Home</string>
+    <string name="fitness">Fitness</string>
+    <string name="profile">Profile</string>
+    <string name="unit">Cm</string>
+    <string name="female_text">Female</string>
+    <string name="age">Age</string>
+    <string name="start_height">170</string>
+    <string name="start_weight">55</string>
+    <string name="start_age">22</string>
+    <string name="image">Image</string>
+    <string name="height">Height</string>
+    <string name="calculate_your_bmi">Calculate Your BMI</string>
+    <string name="weight">Weight (kg)</string>
+    <string name="male">Male</string>
+    <string name="login">Login</string>
+    <string name="splash_url">https://lottiefiles.com/24366-workout-monkey-stay-healthy</string>
+    <string name="quote3">A year from now you may wish you had started today.</string>
+    <string name="push_up">Pushups are a simple and effective bodyweight movement that can help increase strength in your upper body and core.</string>
+    <string name="pull_up">The pull-up is a closed-chain movement where the body is suspended by the hands and pulls up</string>
+    <string name="squats">Strength exercise in which the trainee lowers their hips from a standing position and then stands back up</string>
+    <string name="t_plank">Inner core exercise which helps reduce body fat and increase core strength</string>
+    <string name="dead_bug_">The dead bug is a bodyweight exercise that targets your abdominal muscles.</string>
+    <string name="skipping">User jumps avoiding the incoming rope to increase stamina and it serves as warmup</string>
+    <string name="heavy_squat">Strength exercise of lower body done but using weights to improve legs,calf,thighs</string>
+    <string name="split_jump">Split jumps are a plyometric exercise that strengthen the glutes and leg muscles</string>
+    <string name="yoga_v">Tree Pose is a balancing asana</string>
+    <string name="cobrasana">Gentle backbend practiced from a face-down position that warms and strengthens the spine while opening the chest</string>
+    <string name="pranayama">The practice of pranayama involves breathing exercises and patterns.</string>
+    <string name="yogasana">This asana is a meditation on determination and perseverance, as well as commitment.</string>
+    <string name="utkatasana1"> It is a strengthening and heat-building asana</string>
+    <string name="sliding_text">Every day is a chance. Don\'t forget to drink water and stay hydrated</string>
+    <string name="title_activity_diet">Diet</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="your_bmi_category_is">Your BMI Category Is</string>
+    <string name="recalculate_your_bmi">RECALCULATE YOUR BMI</string>
+    <string name="correct_tick">correct_tick</string>
+    <string name="gender">Gender</string>
+    <string name="_22">22</string>
+    <string name="workouts">WorkOuts</string>
+    <string name="push_ups">PUSHUPS</string>
+    <string name="pull_ups">PULLUPS</string>
+    <string name="squats__">SQUATS</string>
+    <string name="t_plank_hold">T PLANK HOLD</string>
+    <string name="dead_bug">DEADBUG</string>
+    <string name="skipping__">SKIPPING</string>
+    <string name="heavy_squats">HEAVY SQUATS</string>
+    <string name="split_jump_">SPLITJUMP</string>
+    <string name="by_team_8">By Team 8</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="contact">Contact</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="already_have_account">Already Have Account?</string>
+    <string name="try_out">Try Out:-</string>
+    <string name="exercise">exercise</string>
+    <string name="tips">TIPS</string>
+    <string name="diet">DIET</string>
+    <string name="music">MUSIC</string>
+    <string name="bmi">BMI</string>
+    <string name="gym_workout">GYM WORKOUT</string>
+    <string name="_0">0</string>
+    <string name="steps">steps</string>
+    <string name="create_new_account">Create New Account?</string>
+    <string name="profile_picture">profile pic</string>
+    <string name="member">Member</string>
+    <string name="_60">60</string>
+    <string name="weight_kg">Weight(kg)</string>
+    <string name="_172">172</string>
+    <string name="height_cm">Height(cm)</string>
+    <string name="full_name">Full Name</string>
+    <string name="update">UPDATE</string>
+    <string name="sign_out">SignOut</string>
+    <string name="press_back">Press Back Again To Exit</string>
+    <string name="no_sensor">SENSOR NOT FOUND</string>
+    <string name="spotify">Redirecting to Spotify!</string>
+    <string name="invalidEmail">Enter Valid Email</string>
+    <string name="invalidPassword">Password length should be at least 6</string>
+    <string name="invalidName">Name should not be empty</string>
+    <string name="invalidMobile">Enter valid mobile number</string>
+    <string name="registrationProcessing">Please wait till Registration…</string>
+    <string name="registration">Registration</string>
+    <string name="success">Success</string>
+    <string name="registrationSuccessful">Registration Successful</string>
+    <string name="signed_out">Signed Out Successfully</string>
+    <string name="profile_updated">Profile Updated</string>
+    <string name="logged_in">Logged In Successfully</string>
+    <string name="invalid_credentials">Invalid Credentials</string>
+    <string name="opening_youtube">Opening Youtube!</string>
+    <string name="gender_select">Select Your Gender First</string>
+    <string name="height_select">Select Your Height First</string>
+    <string name="incorrect_age">Age is Incorrect</string>
+    <string name="incorrect_weight">Weight Is Incorrect</string>
+    <string name="severely_thin">Severe Thinness</string>
+    <string name="moderately_thin">Moderate Thinness</string>
+    <string name="mildly_thin">Mild Thinness</string>
+    <string name="normal">Normal</string>
+    <string name="overweight">Overweight</string>
+    <string name="obeseC1">Obese Class I</string>
+    <string name="obeseC2">Obese Class II</string>
+    <string name="gender_categ">gender</string>
+    <string name="wt">weight</string>
+    <string name="ht">height</string>
+    <string name="diet_page">https://www.muscleandstrength.com/recipes</string>
+    <string name="pushup_url">https://www.youtube.com/watch?v=rruHM_sB2Hc</string>
+    <string name="pullups_url">https://www.youtube.com/watch?v=iBtL9nX2qOs</string>
+    <string name="squats_url">https://www.youtube.com/watch?v=U3HlEF_E9fo</string>
+    <string name="t_plank_url">https://www.youtube.com/watch?v=BQu26ABuVS0</string>
+    <string name="dead_bug_url">https://www.youtube.com/watch?v=8my1MTa0CWw</string>
+    <string name="skipping_url">https://www.youtube.com/watch?v=FJmRQ5iTXKE</string>
+    <string name="heavysquat_url">https://www.youtube.com/watch?v=sdeQjm7avi8</string>
+    <string name="split_jump_url">https://www.youtube.com/watch?v=nN-fkSOL1ds</string>
+    <string name="spotify_url">https://open.spotify.com/playlist/4d9FIRJKV1nJDUu6ee4dC6</string>
+    <string name="enter_valid_email">Enter Valid Email</string>
+    <string name="enter_valid_pwd">Enter Valid Password</string>
+    <string name="wait_till_login">Please wait till Login…</string>
+    <string name="logged_in_success">Logged In</string>
+    <string name="consumer">consumer</string>
+    <string name="email_id">email</string>
+    <string name="enter_vemail">Enter Valid Email</string>
+    <string name="enter_6_pwd">Enter Valid 6 sized Password</string>
+    <string name="name_not_empty">Name should not be empty</string>
+    <string name="valid_mob_num">Enter valid mobile number</string>
+    <string name="wait_till_reg">Please wait till Registration…</string>
+    <string name="your_name">name</string>
+    <string name="l_contact">contact</string>
+    <string name="tips_url">https://www.nytimes.com/guides/well/strength-training-plyometrics</string>
+    <string name="l_gender">gender</string>
+    <string name="l_height">height</string>
+    <string name="l_weight">weight</string>
+    <string name="l_age">age</string>
+
+
+</resources>
